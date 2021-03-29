@@ -304,3 +304,11 @@ main {
     color: #BFBFBF;
     margin-top: 5%;
 }
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(transparent, #6C6CD8, #976DA7, #AA6E88, #E5B996);
+}
